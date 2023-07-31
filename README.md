@@ -1,0 +1,1 @@
+# Software-da-Escola-Profissional-de-Hotelaria-de-Manteigas
