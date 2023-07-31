@@ -1,0 +1,46 @@
+Codigo: 2300
+Nome: Tecnico de Cozinha
+Hoas: 50h
+
+Codigo: 2301
+Nome: Tecnico de Bar
+Hoas: 50h
+
+Codigo: 2309
+Nome: Introdução à gestão de restauração e bebidas
+Hoas: 30H
+
+Codigo: 2303
+Nome: Gastronomia Portuguesa
+Hoas: 50h
+
+Codigo: 2304
+Nome: Pastelaria Clássica e Internacional.
+Hoas: 50h
+
+Codigo: 2302
+Nome: Gastronomia Africana
+Hoas: 50h
+----------------------------------------------------------------
+
+Codigo: 2305
+Nome: Cocktails Internacional
+Hoas: 30h
+
+Codigo: 2306
+Nome: Gestão de Bar
+Hoas: 30h
+
+Codigo: 2307
+Nome: Tecnicas de Bar
+Hoas: 30h
+
+Codigo: 2308
+Nome: Gastronomia Asiatica
+Hoas: 50h
+
+
+
+Codigo: 2310
+Nome: Gastronomia Europeia
+Hoas: 50h

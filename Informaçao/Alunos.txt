@@ -1,0 +1,51 @@
+CC: 345876273
+Nome: Diogo Nunes da Silva
+Morada: , Avenida da Serra 432, 5600-325, Covilha 
+Telemovel: 234562545
+
+
+CC: 474588946
+Nome: Mariana Lopes
+Morada: , Avenida do Mar 228, 4700-125, Faro 
+Telemovel: 36579389
+
+
+CC: 153234235
+Nome: Miguel Nascimento Gouveia
+Morada: Avenida da Serra 352, 5600-375, Covilha 
+Telemovel: 254674654
+
+
+CC: 123589123
+Nome: Paulo Costa
+Morada: Rua Direita 567, 5600-345, Covilha 
+Telemovel: 778990123
+
+
+CC: 579479235
+Nome: Adriana Gomes
+Morada: Avenida da Vitória 064, 2600-235, Tomar 
+Telemovel: 734235867
+
+
+CC: 954838585
+Nome: Joao Miguel Rodrigues
+Morada: Rua das Portas do Sol 234, 5600-012, Covilha
+Telemovel: 234967234
+
+CC: 123345668
+Nome: Tatiana Azevedo
+Morada: Avenida do Mar 228, 4700-125, Faro 
+Telemovel: 778990123
+
+
+CC: 278562894
+Nome: Vasco Perira
+Morada: Rua Direita 523, 5600-347, Covilha 
+Telemovel: 965723884
+
+
+CC: 789652345
+Nome: Patricia Nunes
+Morada: Rua do Rodrigo 734, 2600-235, Tomar
+Telemovel: 924735876
